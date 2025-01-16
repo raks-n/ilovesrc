@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://slat.cc/xrx" style="text-decoration: none;">
     <button style="padding: 10px 20px; font-size: 16px; color: #fff; background-color: #0e75b6; border: none; border-radius: 5px; cursor: pointer;">
-      Visit Link
+      /xrx
     </button>
   </a>
 </p>
