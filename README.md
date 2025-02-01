@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://bloods.lol/1/1.png" alt="chat icon">
+  <img src="https://bloods.lol/1/1.png" alt="chat icon" style="border-radius: 50%;">
 </h1>
 <h3 align="center">.gg/fred</h3>
 
