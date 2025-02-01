@@ -1,4 +1,6 @@
-<h1 align="center">💬</h1>
+<h1 align="center">
+  <img src="https://bloods.lol/1/1.png" alt="chat icon">
+</h1>
 <h3 align="center">.gg/fred</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ilovesrc&label=Profile%20views&color=0e75b6&style=flat" alt="raks" /> </p>
