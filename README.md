@@ -1,14 +1,11 @@
-<h1 align="center">
-  <img src="https://bloods.lol/1/1.png" alt="chat icon" style="border-radius: 50%;">
-</h1>
-<h3 align="center">.gg/crashing</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=expiring.lol+%7C+bloods.lol+%7C+fedd.lol)](https://git.io/typing-svg)
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/220px-Red_star.svg.png" width="147"/> 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ilovesrc&label=Profile%20views&color=0e75b6&style=flat" alt="raks" /> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilovesrc&show_icons=true&theme=onedark&locale=en&layout=compact" alt="raks" /></p>
-<p align="center">
-  <a href="https://bloods.lol" style="text-decoration: none;">
-    <button style="padding: 10px 20px; font-size: 16px; color: #fff; background-color: #0e75b6; border: none; border-radius: 5px; cursor: pointer;">
-      bloods.lol
-    </button>
-  </a>
-</p>
+```csharp
+github.com/ilovesrc
+dc   $  @gooddev
+srv  $  discord.gg/nuking
+```
+&zwnj; 
+&zwnj; 
+![](https://komarev.com/ghpvc/?username=ilovesrc)
