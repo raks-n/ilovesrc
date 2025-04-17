@@ -4,8 +4,6 @@
 ```csharp
 github.com/ilovesrc
 dc   $  @rapesgirls
-srv  $  discord.gg/nuking
-srv  $  discord.gg/bloodz
 ```
 &zwnj; 
 &zwnj; 
