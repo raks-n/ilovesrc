@@ -3,7 +3,7 @@
 
 ```csharp
 github.com/ilovesrc
-dc   $  @rapesgirls
+dc   $  @ihatedevs
 ```
 &zwnj; 
 &zwnj; 
