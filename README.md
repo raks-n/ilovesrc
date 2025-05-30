@@ -2,10 +2,10 @@
 <img align="left" src="https://r2.dread.cfd/fd5fe61d-571a-4c79-8adc-46317a5815cf" width="147"/> 
 
 ```csharp
-gh   $  /ilovesrc
+gh   $  @raks-n
 dc   $  @ihatedevs
 
 ```
 &zwnj; 
 &zwnj; 
-![](https://komarev.com/ghpvc/?username=ilovesrc)
+![](https://komarev.com/ghpvc/?username=raks-n)
